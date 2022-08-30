@@ -30,7 +30,7 @@ of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-pr
 
 ## Communication channel
 
-https://gitter.im/interview-prep-comm/community
+https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/community
 
 ### Contribution Guidelines
 
