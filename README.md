@@ -1,5 +1,7 @@
 # interview-preparation-kit
 
+[![Join the chat at https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit](https://badges.gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit.svg)](https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Solutions to all the problems
 of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank using JAVA.
 
