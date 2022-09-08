@@ -44,8 +44,9 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 |                           | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | [Done](https://github.com/ammaralii/hackerrank-interview-preparation-kit/blob/main/src/main/java/greedy_algorithms/MinimumAbsoluteDifferenceInAnArray.java) |
 |                           | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                                                       | [In-progress](https://github.com/ammaralii/hackerrank-interview-preparation-kit/blob/main/src/main/java/greedy_algorithms/LuckBalance.java)                 |
 
-### Interviews
-#### Glovo
+## Interviews
+
+### Glovo
 Glovo interview process consist of 5 to 6 rounds depends on the position, In these rounds there will be live coding session
 which comes after HR initial call. For Live coding session details visit this link where we placed all the information:
 [Glovo | Live Coding session](https://github.com/ammaralii/hackerrank-interview-preparation-kit/tree/main/src/main/java/interviews/glovo)
@@ -54,14 +55,14 @@ which comes after HR initial call. For Live coding session details visit this li
 
 https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit
 
-### Contribution Guidelines
+## Contribution Guidelines
 
-#### HackerRank
+### HackerRank
 https://www.hackerrank.com/interview/interview-preparation-kit  <br/>
 Solve Problems using Java and create a pull request. We expect you to write test cases for every problem you have solved
 and make sure to add at least 4 or 5 test cases as without that we will not proceed further.
 
-#### Interviews
+### Interviews
 Solve Problems using Java and create a pull request. Please follow the same package standard which we follow on **Glovo**,
 and we expect you to write test cases for every problem you have solved
 and make sure to add at least 4 or 5 test cases as without that we will not proceed further.
