@@ -49,7 +49,21 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 ### Glovo
 Glovo interview process consist of 5 to 6 rounds depends on the position, In these rounds there will be live coding session
 which comes after HR initial call. For Live coding session details visit this link where we placed all the information:
-[Glovo | Live Coding session](https://github.com/ammaralii/hackerrank-interview-preparation-kit/tree/main/src/main/java/interviews/glovo)
+[Glovo | Live Coding session](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/glovo)
+
+### Amazon
+Amazon interview process consist of 3 steps after you got shortlisted for any position, these are the following steps:
+
+**Step 1:** Online Assessment - 90 min Technical Assessment via Hackerrank
+
+**Step 2:** Recruiter Interview - 1x 60 min telephone interview with a Recruiter or technical phone
+screen with a member of the engineering team
+
+**Step 3:** Virtual Onsite interview – 4 (or 5) x 60 min video conference interviews with the team
+(final round contingent on a successful PS stage)
+
+For Online Assessment details visit this link where we placed all the information:
+[Amazon | Hackerrank Coding session](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon)
 
 ## Communication channel
 
