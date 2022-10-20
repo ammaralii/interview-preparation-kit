@@ -17,76 +17,41 @@ There are 3 types of exercises in the assessment:
 3. Work Style Surveys – typically takes 10 minutes, 2 surveys - answer questions about how you approach software engineering work and your approach to work in general.
 
 ### Question 1
-Write a function to check whether two given strings are anagrams of each
-other. An anagram of a string is another string that contains the same
-characters, only the order of characters can be different. 
+Amazon Shopping recently launched a new item whose daily customer ratings for n days is represented by the array ratings. They monitor these ratings to identify products that are not performing well. Find the number of groups that can be formed consisting of 1 or more consecutive days such that the rating continuously decreases over the days.
 
-**Examples:**
+The rating is consecutively decreasing if it has the form: r, 1-1, r - 2... and so on, where r is the rating on the first day of the group being considered. Two groups are considered different if they contain the ratings of different consecutive days. 
+
+**Example**
+
+ratings = [4, 3, 5, 4, 3]
+
+There are 9 periods in which the rating consecutively decreases.
+
+**5 one day periods:** [4], [3], [5], [4], [3] 
+
+**3 two day periods:** [4, 3], [5,4], [4, 3] 
+
+**1 three-day period:** [5, 4, 3]
+
+These can be visualized in the figure shown below.
+
+![img.png](question1_example.png)
+
+**Tests Cases Examples:**
 ```
 Input:
-s1="ABCD"
-s2="DABC"
+{2,1,3}
 
 Return:
-true
+4
 ```
 
 ```
 Input:
-s1="AABB"
-s2="BBAA"
+{4,3,5,4,3}
 
 Return:
-true
-```
-
-```
-Input:
-s1="AAAB"
-s2="AABB"
-
-Return:
-false
+9
 ```
 
 ### Question 2
-Write an algorithm that given a string containing any combination of the characters
-'(', ')', '{', '}', '[' and ']', determines if the input string is valid.
-
-An input string is valid when:
-
-- Opening parentheses are closed by the same type of closing parentheses, and
-- Opening parentheses are closed in the correct order.
-
-**Examples:**
-```
-Input:
-string="()"
-
-Return:
-true
-```
-
-```
-Input:
-string="()[]{}"
-
-Return:
-true
-```
-
-```
-Input:
-string="(]"
-
-Return:
-false
-```
-
-```
-Input:
-string="([)])"
-
-Return:
-false
-```
