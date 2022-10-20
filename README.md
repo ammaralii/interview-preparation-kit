@@ -4,6 +4,11 @@
 
 This repo include interview preparation material and interviews coding test details which I have given to companies.
 
+## Amazon Previous Interview Questions
+Useful Links:
+- https://www.educative.io/blog/crack-amazon-coding-interview-questions
+- https://www.geeksforgeeks.org/amazon-interview-questions/
+
 ## HackerRank
 
 ### Interview Preparation Kit 
