@@ -33,7 +33,6 @@ public class PythagoreanTriplet {
             return false;
         }
         list = list.stream().map(l -> l * l).sorted().collect(Collectors.toList());
-        System.out.println(list);
         int aIndex = 0;
         int bIndex = list.size() - 2;
         int cIndex = list.size() - 1;
