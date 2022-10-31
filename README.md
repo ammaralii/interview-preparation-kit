@@ -9,6 +9,9 @@ Useful Links:
 - https://www.educative.io/blog/crack-amazon-coding-interview-questions
 - https://www.geeksforgeeks.org/amazon-interview-questions/
 
+## InterviewBit
+**Profile:** https://www.interviewbit.com/profile/syed-ammar-ali 
+
 ## HackerRank
 
 ### Interview Preparation Kit 
