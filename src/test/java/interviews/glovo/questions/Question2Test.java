@@ -18,4 +18,9 @@ public class Question2Test {
     public void success_containingAnyCombination_test_2() {
         Assert.assertEquals(Question2.containingAnyCombination("(]"),false);
     }
+
+    @Test
+    public void success_containingAnyCombination_test_3() {
+        Assert.assertEquals(Question2.containingAnyCombination("([{}])"),true);
+    }
 }
