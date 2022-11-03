@@ -8,6 +8,7 @@ This repo include interview preparation material and interviews coding test deta
 Useful Links:
 - https://www.educative.io/blog/crack-amazon-coding-interview-questions
 - https://www.geeksforgeeks.org/amazon-interview-questions/
+- https://www.interviewbit.com/coding-interview-questions/#text=amazon
 
 ## InterviewBit
 **Profile:** https://www.interviewbit.com/profile/syed-ammar-ali 
