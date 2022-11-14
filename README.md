@@ -6,12 +6,6 @@
 
 This repo include interview preparation material and interviews coding test details which I have given to companies.
 
-## Amazon Previous Interview Questions
-Useful Links:
-- https://www.educative.io/blog/crack-amazon-coding-interview-questions
-- https://www.geeksforgeeks.org/amazon-interview-questions/
-- https://www.interviewbit.com/coding-interview-questions/#text=amazon
-
 ## InterviewBit
 ### Profile
 https://www.interviewbit.com/profile/syed-ammar-ali
@@ -68,6 +62,12 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 | Greedy Algorithms         |                                                                                                                                                                                                                                      |                                                                                                                                                             |
 |                           | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | [Done](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/MinimumAbsoluteDifferenceInAnArray.java) |
 |                           | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                                                       | [In-progress](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/LuckBalance.java)                 |
+
+## Amazon Previous Interview Questions
+Useful Links:
+- https://www.educative.io/blog/crack-amazon-coding-interview-questions
+- https://www.geeksforgeeks.org/amazon-interview-questions/
+- https://www.interviewbit.com/coding-interview-questions/#text=amazon
 
 ## Interviews
 
