@@ -1,7 +1,5 @@
 package amazon_questions.interviewbit;
 
-import java.util.ArrayList;
-
 public class MinimumSumPathInMatrix {
     public static int find(int[][] grid) {
         if(grid == null || grid.length==0)
