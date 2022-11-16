@@ -7,7 +7,6 @@ public class Sqrt {
         int left = 1, right = x/2;
         while (true) {
             int mid = left + (right - left) / 2;
-            System.out.println("Mid is " + mid);
             if (mid > x / mid) {
                 right = mid - 1;
             } else {
