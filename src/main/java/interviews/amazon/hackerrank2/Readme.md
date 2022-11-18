@@ -48,7 +48,7 @@ we are forced to pick only 1 product from index 3 as the number of products at i
 - Choose subarray from indices (3, 5) and pick products [1, 2, 6] respectively from each index, which is 9 products.
 - Choose subarray from indices (1, 1) and pick all the 7 products.
 
-![img.png](question2.png)
+![img.png](question2_example.png)
 
 The maximum number of product is 12
 
