@@ -18,5 +18,5 @@ There are 3 types of exercises in the assessment:
 
 #### List of Coding Session Given By different Experts
 
-- [Coding Session 1](/hackerrank1/)
-- [Coding Session 2](/hackerrank2/)
+- [Coding Session 1](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon/hackerrank1/)
+- [Coding Session 2](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon/hackerrank2/)
