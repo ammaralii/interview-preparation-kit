@@ -1,5 +1,7 @@
 # Interview Preparation Kit
 
+[Click here](https://nas.io/interviewpreparationkit) to join expert developers community.
+
 [Click here](https://chat.whatsapp.com/D74JsWHJi3D7u2AO4ryr3F) to Join **Whatsapp** group
 
 [![Join the chat at https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit](https://badges.gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit.svg)](https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
