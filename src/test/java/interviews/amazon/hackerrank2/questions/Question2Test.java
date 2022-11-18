@@ -22,6 +22,6 @@ public class Question2Test {
      */
     @Test
     public void success_findMaxProducts_test_1() {
-        Assert.assertEquals(Question1.maxSetSize(new int[]{2,5,6,7}), 20);
+        Assert.assertEquals(Question2.findMaxProducts(new int[]{2,5,6,7}), 20);
     }
 }
