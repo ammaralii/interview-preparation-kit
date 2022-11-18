@@ -3,32 +3,6 @@ package interviews.amazon.hackerrank1.questions;
 import java.util.List;
 import java.util.PriorityQueue;
 
-
-//def findMaxProducts(products):
-//    # Write your code here
-//
-//    ans = products[0]
-//    n = len(products)
-//
-//    for i in range(1,n):
-//        l = products[i]
-//        p = products[i]
-//        a = products[i]
-//        for j in range(i,0,-1):
-//            if products[j]>=p:
-//                l+=(a-1)
-//                a= a-1
-//            else:
-//                if products[j]<(a-1):
-//                    l+=products[j]
-//                    a = products[j]
-//                else:
-//                    l+=(a-1)
-//                    a=a-1
-//
-//        ans = max(l,ans)
-//
-//    return ans
 public class Question2 {
     public static Integer findMaximumSustainableClusterSize(List<Integer> processingPower, List<Integer> bootingPower, Integer maxPower) {
         if (processingPower == null || bootingPower == null || processingPower.size() == 0 || processingPower.size() != bootingPower.size()) {
