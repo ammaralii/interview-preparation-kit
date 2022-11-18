@@ -90,6 +90,22 @@ screen with a member of the engineering team
 For Online Assessment details visit this link where we placed all the information:
 [Amazon | Hackerrank Coding session](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon)
 
+### TeamApt
+TeamApt interview process consist of 4 steps after you got shortlisted for any position, these are the following steps:
+
+**Step 1** Recruiter Interview - 45 min
+
+**Step 2:** Online Assessment or Live Coding Test - 90 min Technical Assessment via Hackerrank
+
+**Step 3:** Technical Interview - 1x 60 min
+
+**Step 4:** Technical Interview with CTO or VP
+
+**Step 5** Final Interview
+
+For Online Assessment details visit this link where we placed all the information:
+[TeamApt | Online Assessment](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/teamapt)
+
 ## Communication channel
 
 https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit
