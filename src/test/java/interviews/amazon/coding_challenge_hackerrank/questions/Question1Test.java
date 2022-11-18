@@ -1,4 +1,4 @@
-package interviews.amazon.hackerrank2.questions;
+package interviews.amazon.coding_challenge_hackerrank.questions;
 
 import org.junit.Assert;
 import org.junit.Test;

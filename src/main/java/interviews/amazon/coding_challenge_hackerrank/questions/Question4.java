@@ -1,9 +1,9 @@
-package interviews.amazon.hackerrank1.questions;
+package interviews.amazon.coding_challenge_hackerrank.questions;
 
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class Question2 {
+public class Question4 {
     public static Integer findMaximumSustainableClusterSize(List<Integer> processingPower, List<Integer> bootingPower, Integer maxPower) {
         if (processingPower == null || bootingPower == null || processingPower.size() == 0 || processingPower.size() != bootingPower.size()) {
             return 0;

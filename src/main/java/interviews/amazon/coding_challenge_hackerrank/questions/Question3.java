@@ -1,8 +1,8 @@
-package interviews.amazon.hackerrank1.questions;
+package interviews.amazon.coding_challenge_hackerrank.questions;
 
 import java.util.List;
 
-public class Question1 {
+public class Question3 {
     public static Integer countDecreasingRatings(List<Integer> ratings) {
         Integer n = ratings.size();
         if (n == 0) return 0;

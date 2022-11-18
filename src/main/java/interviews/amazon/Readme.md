@@ -16,7 +16,4 @@ There are 3 types of exercises in the assessment:
 2. Work Simulation – typically takes 15 minutes, work through software development decisions faced by SDEs at Amazon.
 3. Work Style Surveys – typically takes 10 minutes, 2 surveys - answer questions about how you approach software engineering work and your approach to work in general.
 
-#### List of Coding Session Given By different Experts
-
-- [Coding Session 1](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon/hackerrank1/)
-- [Coding Session 2](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon/hackerrank2/)
+Please check the [questions](coding_challenge_hackerrank) folder to check list of questions asked in previous coding challenges

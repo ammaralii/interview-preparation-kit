@@ -1,4 +1,4 @@
-package interviews.glovo.questions;
+package interviews.glovo.live_coding_interview.questions;
 
 import leetcode.ValidParentheses;
 
