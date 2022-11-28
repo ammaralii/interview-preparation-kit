@@ -66,13 +66,9 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 |                           | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                                                       | [Done](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/LuckBalance.java)                        |
 |                           | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                                 | [Done](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/GreedyFlorist.java)                      |
 |                           | [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                                        | [Done](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/MaxMin.java)                             |
-|                           | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                   | [In-progress](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/ReverseShuffleMerge.java)         |
-
-## Amazon Previous Interview Questions
-Useful Links:
-- https://www.educative.io/blog/crack-amazon-coding-interview-questions
-- https://www.geeksforgeeks.org/amazon-interview-questions/
-- https://www.interviewbit.com/coding-interview-questions/#text=amazon
+|                           | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)                   | [Done](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/greedy_algorithms/ReverseShuffleMerge.java)                |
+| Search                    |                                                                                                                                                                                                                                      |                                                                                                                                                             |
+|                           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)                      | [In-progress](https://github.com/ammaralii/interview-preparation-kit/blob/main/src/main/java/hackerrank/search/HashTablesIceCreamParlor.java)               |
 
 ## Interviews
 
@@ -95,6 +91,12 @@ screen with a member of the engineering team
 For Online Assessment details visit this link where we placed all the information:
 [Amazon | Hackerrank Coding session](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/amazon)
 
+#### Amazon Previous Interview Questions
+Useful Links:
+- https://www.educative.io/blog/crack-amazon-coding-interview-questions
+- https://www.geeksforgeeks.org/amazon-interview-questions/
+- https://www.interviewbit.com/coding-interview-questions/#text=amazon
+
 ### TeamApt
 TeamApt interview process consist of 4 steps after you got shortlisted for any position, these are the following steps:
 
@@ -113,7 +115,8 @@ For Online Assessment details visit this link where we placed all the informatio
 
 ## Communication channel
 
-https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit
+- https://chat.whatsapp.com/D74JsWHJi3D7u2AO4ryr3F
+- https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit
 
 ## Contribution Guidelines
 
