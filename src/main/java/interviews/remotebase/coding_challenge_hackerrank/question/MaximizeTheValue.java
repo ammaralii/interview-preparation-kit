@@ -1,4 +1,4 @@
-package interviews.remotebase.coding_challenge_hackerrank;
+package interviews.remotebase.coding_challenge_hackerrank.question;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -82,11 +82,5 @@ public class MaximizeTheValue {
 
         // Return
         return ans.stream().mapToInt(Integer::intValue).toArray();
-    }
-
-    public static void main(String[] args) {
-        int[] array = new int[]{21,34,5,7,9};
-        int[] result = rearrange(array);
-        Arrays.stream(result).forEach(System.out::println);
     }
 }
