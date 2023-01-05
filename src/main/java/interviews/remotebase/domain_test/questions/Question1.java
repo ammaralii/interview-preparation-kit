@@ -1,4 +1,4 @@
-package interviews.remotebase.domain_test;
+package interviews.remotebase.domain_test.questions;
 
 import java.util.HashMap;
 import java.util.Map;
