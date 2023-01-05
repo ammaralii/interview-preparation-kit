@@ -29,7 +29,7 @@ rearrange has the following parameter(s):
 - 1 ≤ n ≤ 10<sup>5</sup>
 - 1 ≤ arr[i] ≤ 10<sup>9</sup>
 
-# Question 2 (Maximize the value)
+# Question 2 (Team Formation)
 ## Description
 FC Codelona is trying to assemble a team from a roster of available players. They have a minimum number of players they want to sign, and each player needs to have a skill rating within a certain range. Given a list of players' skill levels with desired upper and lower bounds, determine how many teams can be created from the list.
 

@@ -8,10 +8,17 @@ public class Question2 {
                 count++;
             }
         }
-        return count >= minplayers ? (factorial(count) / (factorial(count - minplayers) * factorial(minplayers))) : 0;
-    }
-
-    static int factorial(int n) {
-        return n <= 1 ? 1 : n * factorial(n - 1);
+        int result = 0;
+        for (int i = minplayers; i <= count; i++) {
+            int combination = 1;
+            for (int j = count; j > count - i; j--) {
+                combination *= j;
+            }
+            for (int j = i; j > 1; j--) {
+                combination /= j;
+            }
+            result += combination;
+        }
+        return result;
     }
 }

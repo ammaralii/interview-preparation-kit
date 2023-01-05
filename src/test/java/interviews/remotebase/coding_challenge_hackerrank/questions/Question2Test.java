@@ -16,6 +16,24 @@ public class Question2Test {
 
     @Test
     public void success_countTeams_test_1() {
+        int[] skills = new int[] {4, 8, 5, 6};
+        int minPlayers = 1;
+        int minLevel = 5;
+        int maxLevel = 7;
+        Assert.assertEquals(Question2.countTeams(skills, minPlayers, minLevel, maxLevel), 3);
+    }
+
+    @Test
+    public void success_countTeams_test_2() {
+        int[] skills = new int[] {4, 8, 5, 6};
+        int minPlayers = 2;
+        int minLevel = 5;
+        int maxLevel = 7;
+        Assert.assertEquals(Question2.countTeams(skills, minPlayers, minLevel, maxLevel), 1);
+    }
+
+    @Test
+    public void success_countTeams_test_3() {
         int[] skills = new int[]{};
         int minPlayers = 3;
         int minLevel = 4;
@@ -24,7 +42,7 @@ public class Question2Test {
     }
 
     @Test
-    public void success_countTeams_test_2() {
+    public void success_countTeams_test_4() {
         int[] skills = new int[] {4, 5, 6, 7, 8};
         int minPlayers = 5;
         int minLevel = 4;
@@ -33,16 +51,7 @@ public class Question2Test {
     }
 
     @Test
-    public void success_countTeams_test_3() {
-        int[] skills = new int[] {4, 5, 6, 7, 8};
-        int minPlayers = 2;
-        int minLevel = 4;
-        int maxLevel = 8;
-        Assert.assertEquals(Question2.countTeams(skills, minPlayers, minLevel, maxLevel), 10);
-    }
-
-    @Test
-    public void success_countTeams_test_4() {
+    public void success_countTeams_test_5() {
         int[] skills = new int[] {4, 5, 6, 7, 8};
         int minPlayers = 2;
         int minLevel = 9;
