@@ -6,7 +6,7 @@
 
 [![Join the chat at https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit](https://badges.gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit.svg)](https://gitter.im/Hacker-Rank-Interview-Preparation-Kit/interview-preparation-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repo include interview preparation material and interviews coding test details which I have given to companies.
+This repo include interview preparation material and interviews coding test details which developers have given to companies.
 
 ## InterviewBit
 ### Profile
