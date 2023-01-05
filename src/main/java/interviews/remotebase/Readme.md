@@ -1,11 +1,17 @@
-## BACKEND ENGINEER | SENIOR FULLSTACK ENGINEER
+## JAVA DEVELOPER | SENIOR JAVA DEVELOPER | SENIOR BACKEND ENGINEER | SENIOR FULLSTACK ENGINEER
 
-## Live Coding Session
+## Domain Test
+![domain_test.png](resources/domain_test.png)
+- Select Java as seen in above screenshot
+- Please check the [questions](domain_test) folder to check list of questions asked in previous domain test
 
-### INSTRUCTION
+## HR Screening
+![img.png](resources/hr_screening.png)
 
+## Problem Solving
+Please check the [questions](coding_challenge_hackerrank) folder to check list of questions asked in previous coding Challenge HackerRank questions
+
+## Final Interview
 
 
 Good luck with the preparation !
-
-Please check the [questions](live_coding_interview) folder to check list of questions asked in previous live coding interviews
