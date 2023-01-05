@@ -113,6 +113,24 @@ TeamApt interview process consist of 4 steps after you got shortlisted for any p
 For Online Assessment details visit this link where we placed all the information:
 [TeamApt | Online Assessment](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/teamapt)
 
+### RemoteBase
+RemoteBase interview process consist of 6 steps after you got shortlisted for any position, these are the following steps:
+
+**Step 1** Recruiter Interview - 45 min
+
+**Step 2** Domain Test - 1 hour
+
+**Step 3:** HR Screening - 10 min
+
+**Step 3:** Problem-Solving - 2 hours
+
+**Step 4:** Final Interview
+
+**Step 5** Network
+
+For more details visit this link where we placed all the information:
+[RemoteBase | Interview Process Details](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/remotebase)
+
 ## Communication channel
 
 - https://chat.whatsapp.com/D74JsWHJi3D7u2AO4ryr3F
