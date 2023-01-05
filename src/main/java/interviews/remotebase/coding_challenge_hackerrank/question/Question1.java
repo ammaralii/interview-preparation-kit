@@ -21,7 +21,7 @@ public class Question1 {
 
         // Declaring a vector to store answers
         List<Integer> ans = new ArrayList<>();
-        int k = 0, j = 0;
+        int k = 0, j;
 
         // If the size of the array is even then the value of j
         // becomes array size minus one divided by 2
