@@ -1,7 +1,6 @@
 package interviews.remotebase.coding_challenge_hackerrank.question;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
+import java.util.Arrays;
 
 public class Question4 {
     /*
@@ -13,31 +12,42 @@ public class Question4 {
      *  2. STRING s2
      */
     public static String mergePalindromes(String s1, String s2) {
-        Map<Character, Integer> count = new LinkedHashMap<>();
-        for (char c : s1.toCharArray()) {
-            count.put(c, count.getOrDefault(c, 0) + 1);
+        int[] countA = new int[26];
+        int[] countB = new int[26];
+
+        for (char ch : s1.toCharArray()) {
+            countA[ch - 'a'] += 1;
         }
-        for (char c : s2.toCharArray()) {
-            count.put(c, count.getOrDefault(c, 0) + 1);
+
+        for (char ch : s2.toCharArray()) {
+            countB[ch - 'a'] += 1;
         }
-        String ans = "";
-        for (char c : count.keySet()) {
-            if (count.get(c) % 2 == 0) {
-                ans += new String(new char[count.get(c) / 2]).replace("\0", c + "");
-                count.put(c, 0);
-            } else {
-                ans += new String(new char[(count.get(c) - 1) / 2]).replace("\0", c + "");
-                count.put(c, 1);
+
+        String mid = "";
+        String res = "";
+        for (int i = 0; i < 26; i++) {
+
+            char curr = (char) (i + 'a');
+
+            if (countA[i] % 2 == 1 && countB[i] % 2 == 1 && mid.length() < 2) {
+                mid = String.valueOf(curr) + curr;
             }
-        }
-        char middle_char = ' ';
-        for (char c : count.keySet()) {
-            if (count.get(c) == 1) {
-                middle_char = c;
-                break;
+
+            if ((countA[i] % 2 == 1 || countB[i] % 2 == 1) && mid.length() == 0) {
+                mid = String.valueOf(curr);
             }
+
+            res += new String(new char[countA[i] / 2 + countB[i] / 2]).replace("\0", String.valueOf(curr));
+
         }
-        ans = ans + middle_char + new StringBuilder(ans).reverse();
-        return ans;
+
+        if (mid.length() == 2) {
+            char[] resChars = (res + mid.charAt(0)).toCharArray();
+            Arrays.sort(resChars);
+            res = new String(resChars);
+            return res + new StringBuilder(res).reverse();
+        }
+
+        return res + mid + new StringBuilder(res).reverse();
     }
 }
