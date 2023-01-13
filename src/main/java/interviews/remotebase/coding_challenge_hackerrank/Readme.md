@@ -64,3 +64,61 @@ int: the total number of teams that can be formed per the criteria
 - 1 ≤ minPlayers ≤n
 - 1 ≤ minLevel ≤ maxLevel ≤ 1000
 - 1 ≤ skills[i] ≤ 1000
+
+# Question 3 (Characters Swap)
+## Description
+Given a string s, repeat this operation zero or more times to create the lexicographically smallest string possible.
+1. Select two characters that exists in the string, c1, and c2.
+2. Replace all occurrences of c1 with c2 and all occurrences of c2 with c1.
+
+Note: For two strings x and y of length n, x is lexicographically smaller than y if the first non-matching character in x is less than the character at that position in y.
+### Example
+    s="bbcacad"
+- Select c1 = 'b' and c2 = 'a', after swapping occurrences, s= "aacbcbd".
+- Select c1 = 'b' and c2 = 'c', after swapping occurrences of c1 and c1 we get s = "aabcbcd".
+
+It can be proven that this is the lexicographically smallest string s can be converted to. Return "aabcbcd".
+
+### Function Description
+Complete the function getString in the editor below.
+
+getString has the following parameter:
+    
+    string s: the string to process
+### Returns
+string: the lexicographically smallest string s can be changed to
+### Constraints
+- 1 ≤ |s| ≤ 10<sup>5</sup>
+- The string s contains lowercase English letters.
+
+# Question 4 (Merging Palindromes)
+## Description
+Given two strings, find all palindromes that can be formed with the letters of each string. From those palindromes, select one from each set that, when combined and rearranged, produces the longest palindrome possible. If there are multiple palindromes of that length, choose the alphabetically smallest of them.
+
+### Example
+    s1 = 'aabbc' 
+    s2 = 'ddefefq'
+
+All of the letters of the first string can make a palindrome. The choices using all letters are [abcba, bacab].
+
+All of the letters of the second string can make a palindrome. The choices using all letters are [defqfed, dfeqefd, edfqfde, efdqdfe, fdeqedf, fedqdef].
+
+The two longest results in s1 have a length of 5.
+
+The six longest results in s2 have a length of 6.
+
+From the longest results for s1 and s2, merge the two that form the lowest merged palindrome, alphabetically. In this case, choose abcba and defqfed. The two palindromes can be combined to form a single palindrome if either the cor the qis discarded. The alphabetically smallest combined palindrome is abdefcfedba.
+
+### Function Description
+Complete the function mergePalindromes in the editor below. The function must return a string.
+
+mergePalindromes has the following parameter(s):
+
+    string s1: a string
+    string s2: a string
+
+### Constraints
+- 1 ≤ |s1| ≤ 10<sup>5</sup>
+- 1 ≤ |s2| ≤ 10<sup>5</sup>
+- s1 and s2 will contain only lowercase English letters in the range
+ascii[a-z]
