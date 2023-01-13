@@ -65,7 +65,7 @@ int: the total number of teams that can be formed per the criteria
 - 1 ≤ minLevel ≤ maxLevel ≤ 1000
 - 1 ≤ skills[i] ≤ 1000
 
-# Question 3 (Characters Swap)
+# Question 3 [Characters Swap](https://thejoboverflow.com/problem/284/)
 ## Description
 Given a string s, repeat this operation zero or more times to create the lexicographically smallest string possible.
 1. Select two characters that exists in the string, c1, and c2.
@@ -91,7 +91,7 @@ string: the lexicographically smallest string s can be changed to
 - 1 ≤ |s| ≤ 10<sup>5</sup>
 - The string s contains lowercase English letters.
 
-# Question 4 (Merging Palindromes)
+# Question 4 [Merging Palindromes](https://thejoboverflow.com/problem/301/)
 ## Description
 Given two strings, find all palindromes that can be formed with the letters of each string. From those palindromes, select one from each set that, when combined and rearranged, produces the longest palindrome possible. If there are multiple palindromes of that length, choose the alphabetically smallest of them.
 
