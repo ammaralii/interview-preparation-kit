@@ -7,6 +7,11 @@ Referral Link: [https://talent.remotebase.com?referral=dM5hFwLY5Weg4P1PJma4DM](h
 - Please check the [questions](domain_test) folder to check list of questions asked in previous domain test
 
 ## HR Screening
+These questions being asked:
+- Introduction about yourself?
+- how you handled a difficult situation?
+- What Are Your Long Term Career Goals? Why you join us.
+
 ![hr_screening.png](resources/hr_screening.png)
 
 ## Problem Solving
