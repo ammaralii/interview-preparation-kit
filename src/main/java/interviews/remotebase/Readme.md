@@ -1,5 +1,5 @@
 ## JAVA DEVELOPER | SENIOR JAVA DEVELOPER | SENIOR BACKEND ENGINEER | SENIOR FULLSTACK ENGINEER
-Dashboard Link: [RemoteBase Dashboard](https://talent.remotebase.com/dashboard)
+Referral Link: [RemoteBase Link](https://talent.remotebase.com?referral=dM5hFwLY5Weg4P1PJma4DM)
 
 ## Domain Test
 ![domain_test.png](resources/domain_test.png)
