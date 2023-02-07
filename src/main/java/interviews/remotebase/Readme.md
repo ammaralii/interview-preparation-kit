@@ -25,5 +25,9 @@ It's divided into three parts as per experienced:
 - **Live Coding - 20 to 30 mins**: Please check the [live_coding_interview](live_coding_interview) folder to check list of questions asked in previous interviews
 ![final_interview.png](resources/final_interview.png)
 
+## Network
+Once you cleared all the rounds then you will be a part of Network
+![network.png](resources/network.png)
+
 
 Good luck with the preparation !
