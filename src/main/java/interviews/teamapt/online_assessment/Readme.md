@@ -44,8 +44,7 @@ page, per_page, total, total_pages, etc. are not required for this task.
 If the barcode is found, the data array contains exactly 1 element. If not, it is empty and the function should
 return '-1'.
 
-An example of the product record from https://jsonmock.hackerrank.com/api/inventory?
-barcode=74001755 is:
+An example of the product record from https://jsonmock.hackerrank.com/api/inventory?barcode=74001755 is:
 
 ```json
 {
