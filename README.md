@@ -138,6 +138,14 @@ RemoteBase interview process consist of 6 steps after you got shortlisted for an
 For more details visit this link where we placed all the information:
 [RemoteBase | Interview Process Details](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/remotebase)
 
+### Aurora Solutions
+**Step 1** Coding Assessment - 1 hour
+
+**Step 2** Technical Interview - 30 min
+
+For more details visit this link where we placed all the information:
+[Aurora Solutions | Interview Process Details](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/aurora_solutions)
+
 ## Communication channel
 
 - https://chat.whatsapp.com/D74JsWHJi3D7u2AO4ryr3F
