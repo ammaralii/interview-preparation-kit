@@ -1,59 +1,60 @@
 # Section 1(Java MCQS)
-![img.png](resources/section1.png)
+![img.png](resources/section1/section1_collaborator1.png)
+![img.png](resources/section1/section1_collaborator2.png)
 
 ## Question 1
-![img.png](resources/section1_1.png)
+![img.png](resources/section1/section1_1.png)
 ### Answer
 Construction
 
 
 ## Question 2
-![img.png](resources/section1_2.png)
+![img.png](resources/section1/section1_2.png)
 ### Answer
 @Query
 
 ## Question 3
-![img.png](resources/section1_3.png)
+![img.png](resources/section1/section1_3.png)
 ### Answer
 @Value
 
 ## Question 4
-![img.png](resources/section1_4.png)
+![img.png](resources/section1/section1_4.png)
 ### Answer
 application analysis
 
 ## Question 5
-![img.png](resources/section1_5.png)
+![img.png](resources/section1/section1_5.png)
 ### Answer
 /actuator/**
 
 ## Question 6
-![img.png](resources/section1_6.png)
+![img.png](resources/section1/section1_6.png)
 ### Answer
 It allows Spring to create components.
 
 ## Question 7
-![img.png](resources/section1_7.png)
+![img.png](resources/section1/section1_7.png)
 ### Answer
 field based
 
 ## Question 8
-![img.png](resources/section1_8.png)
+![img.png](resources/section1/section1_8.png)
 ### Answer
 @Repository
 
 ## Question 9
-![img.png](resources/section1_9.png)
+![img.png](resources/section1/section1_9.png)
 ### Answer
 "GET request http://localhost:8080/home/ex/basic/bar"
 
 ## Question 10
-![img.png](resources/section1_10.png)
+![img.png](resources/section1/section1_10.png)
 ### Answer
 break
 
 # Section 2(Rest API)
-![img.png](resources/section2.png)
+![img.png](resources/section2/section2_collaborator1.png)
 ## Question 1
 ![img.png](resources/section2/question1/section2_1.png)
 ![img_1.png](resources/section2/question1/section2_2.png)
@@ -64,7 +65,7 @@ break
 ![img.png](resources/section2/question2/section2_1.png)
 
 # Section 3(Spring Boot Project)
-![img.png](resources/section3.png)
+![img.png](resources/section3/section3_collaborator1.png)
 ## Question 1
 ![img.png](resources/section3/question1/section3_1.png)
 ![img.png](resources/section3/question1/section3_2.png)
@@ -140,7 +141,7 @@ public class App {
 ```
 
 # Section 4(Spring Boot Debugging)
-![img.png](resources/section4.png)
+![img.png](resources/section4/section4_collaborator1.png)
 ## Question 1
 ![img.png](resources/section4/question1/section4_1.png)
 ![img.png](resources/section4/question1/section4_2.png)
