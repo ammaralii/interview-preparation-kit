@@ -2,7 +2,7 @@
 
 [Click here](https://ora.sh/ammaralii/interview-preparation-kit) to use **AI ChatBot** for Interview question solutions
 
-[Click here](https://chat.whatsapp.com/D74JsWHJi3D7u2AO4ryr3F) to Join **Whatsapp** group
+[Click here](https://chat.whatsapp.com/GdY1xdRc6fdE2eCXXbH8Ml) to Join **Whatsapp** group
 
 [Click here](https://nas.io/interviewpreparationkit) to join expert developers community
 
