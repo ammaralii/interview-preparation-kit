@@ -33,7 +33,7 @@ https://thejoboverflow.com/problems/
 ## HackerRank
 ### Profile
 https://www.hackerrank.com/ammaralii
-### Interview Preparation Kit 
+### Interview Preparation Kit
 https://www.hackerrank.com/interview/interview-preparation-kit
 
 | Topic                     | Question                                                                                                                                                                                                                             | STATUS                                                                                                                                                      |
@@ -145,6 +145,35 @@ For more details visit this link where we placed all the information:
 
 For more details visit this link where we placed all the information:
 [Aurora Solutions | Interview Process Details](https://github.com/ammaralii/interview-preparation-kit/tree/main/src/main/java/interviews/aurora_solutions)
+
+## Average Salaries
+
+The following table shows the average salaries for various IT positions in the UAE and KSA. The salaries are listed in AED and SAR.
+
+| POSITION | Min. (AED) | Max. (AED) | Min (SAR) | Max. (SAR) |
+|---|------------|------------|-----------|------------|
+| Chief Information Officer | 60,000     | 75,000     | 60,000    | 75,000     |
+| VP of Engineering | 55,000     | 65,000     | 55,000    | 65,000     |
+| Director of Engineering | 50,000     | 65,000     | 50,000    | 65,000     |
+| Chief Architect | 40,000     | 55,000     | 40,000    | 55,000     |
+| Software Architect | 30,000     | 45,000     | 30,000    | 45,000     |
+| Solution Architect | 30,000     | 45,000     | 30,000    | 45,000     |
+| Enterprise Architect | 28,000     | 50,000     | 28,000    | 50,000     |
+| Engineering Manager | 26,000     | 50,000     | 26,000    | 50,000     |
+| Technical Lead | 29,000     | 45,000     | 29,000    | 45,000     |
+| Engineering Lead | 28,000     | 47,000     | 28,000    | 47,000     |
+| Principal Software Engineer | 22,000     | 42,000     | 22,000    | 42,000     |
+| Senior Software Engineer | 18,000     | 35,000     | 18,000    | 35,000     |
+| Software Engineer | 12,000     | 28,000     | 12,000    | 28,000     |
+| Android Engineer | 12,000     | 30,000     | 12,000    | 30,000     |
+| Hybrid Mobile Developer | 11,500     | 28,000     | 11,500    | 28,000     |
+| Front end Developer | 11,000     | 26,000     | 11,000    | 26,000     |
+| Full Stack Developer | 14,000     | 35,000     | 14,000    | 35,000     |
+| Game Developer | 13,000     | 35,000     | 13,000    | 35,000     |
+| JavaScript Developer | 12,000     | 28,000     | 12,000    | 28,000     |
+| Micro services / API Lead Designer | 20,000     | 30,000     | 20,000    | 30,000     |
+| Mobile Application Architect | 20,000     | 40,000     | 20,000    | 40,000     |
+| QA Engineer | 12,000     | 28,000     | 12,000    | 28,000     |
 
 ## Communication channel
 
